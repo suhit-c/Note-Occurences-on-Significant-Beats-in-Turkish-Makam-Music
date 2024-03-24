@@ -1,0 +1,99 @@
+{
+    "hicaz": {
+        "aksak": [
+            "NoKeySignature/hicaz--turku--aksak--gemilerde_talim----noKeySignature.xml",
+            "NoKeySignature/hicaz--turku--aksak--pencere_acildi----noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--kis_geldi--sevki_bey--noKeySignature.xml",
+            "NoKeySignature/hicaz--rumeliturkusu--aksak--yine_de--rumeli--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--beni_sev--misirli_udi_ibrahim_efendi--noKeySignature.xml",
+            "NoKeySignature/hicaz--turku--aksak--necibemin_ikidir--istanbul--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--bir_an--omer_sami_gupgup--noKeySignature.xml",
+            "NoKeySignature/hicaz--zeybek--aksak----izmir--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--sen_bu_yerden--sevki_bey--noKeySignature.xml",
+            "NoKeySignature/hicaz--turku--aksak--ihtiyatlar_silah----noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--dil_yaresini--sevki_bey--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--bilmiyorum--sevki_bey--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--matemzedeyim--tanburi_cemil_bey--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--gormedim_omrumun--kadri_sencalar--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--su_karsiki--dede_efendi--noKeySignature.xml",
+            "NoKeySignature/hicaz--turku--aksak--el_zanneder--urfa--noKeySignature.xml",
+            "NoKeySignature/hicaz--turku--aksak--karanfil_oylum_oylum----noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--gulsen-i_husnune--rifat_bey--noKeySignature.xml",
+            "NoKeySignature/hicaz--kalenderi--aksak--ebrulerinin_zahmi--ii_mahmud--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--hastayim_yasiyorum--udi_hrant--noKeySignature.xml",
+            "NoKeySignature/hicaz--kocekce--aksak--baharin_zamani--dede_efendi--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--pencerenin_perdesini--muhlis_sabahaddin_ezgi--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--ne_gunah--alaeddin_yavasca--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--ben_gamli_hazan--melahat_pars--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--bir_bahar--selahattin_pinar--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksak--sazlar_calinir--yesari_asim_arsoy--noKeySignature.xml"
+        ],
+        "aksaksemai": [
+            "NoKeySignature/hicaz--sazsemaisi--aksaksemai----muhittin_erev--noKeySignature.xml",
+            "NoKeySignature/hicaz--sazsemaisi--aksaksemai----refik_talat_alpman--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--aksaksemai--sezdim_dargin--rifat_ayaydin--noKeySignature.xml"
+        ],
+        "curcuna": [
+            "NoKeySignature/hicaz--sarki--curcuna--ruya_gibi--avni_anil--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--curcuna--severim_her--lemi_atli--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--curcuna--unutulmus_degilsin--irfan_ozbakir--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--curcuna--gonul_yarasindan--selahattin_pinar--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--curcuna--aksam_erdi--rahmi_bey--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--curcuna--acaba_sen_misin--bimen_sen--noKeySignature.xml",
+            "NoKeySignature/hicaz--aranagme--curcuna--1----noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--curcuna--bahar_olsa--fahri_kopuz--noKeySignature.xml",
+            "NoKeySignature/hicaz--sarki--curcuna--sislendi_hava--rifat_bey--noKeySignature.xml"
+        ]
+    },
+    "rast": {
+        "aksaksemai": [
+            "rast--agirsemai--aksaksemai--cekmis_yuzune--tascizade_recep_celebi.xml",
+            "rast--sazsemaisi--aksaksemai----kantemiroglu.xml",
+            "rast--sazsemaisi--aksaksemai----benli_hasan_aga.xml"
+        ],
+        "aksak": [
+            "rast--sarki--aksak--calima_bak--lavtaci_hristo.xml",
+            "rast--sarki--aksak--reng-i_ruhsarina--erol_sayan.xml",
+            "rast--sarki--aksak--bir_dame--haci_faik_bey.xml",
+            "rast--sarki--aksak--sen_nazla_gezerken--kazim_nami_erdolen.xml",
+            "rast--sarki--aksak--aski_huznumle--mildan_niyazi_bey.xml",
+            "rast--sarki--aksak--bin_can_ile--tanburi_buyuk_osman_bey.xml",
+            "rast--sarki--aksak--ay_gulsun--ismail_baha_surelsan.xml"
+        ],
+        "curcuna": [
+            "rast--sarki--curcuna--aglasam_her--gulbenkyan.xml",
+            "rast--sarki--curcuna--mey-i_lalinle--tatyos_efendi.xml",
+            "rast--sarki--curcuna--nihansin_dideden--haci_faik_bey.xml",
+            "rast--aranagme--curcuna--1--.xml",
+            "rast--sarki--curcuna--icime_hep--yildirim_gurses.xml",
+            "rast--sarki--curcuna--gamdan_azade--rifat_bey.xml",
+            "rast--sarki--curcuna--anlatayim_halimi--tanburi_ali_efendi.xml",
+            "rast--sarki--curcuna--aylar_geciyor--selahaddin_pinar.xml",
+            "rast--sarki--curcuna--asik_oldur--haci_arif_bey.xml"
+        ]
+    },
+    "acemasiran": {
+        "aksak": [
+            "acemasiran--sarki--aksak--gonlum_dusuyor--ismail_baha_surelsan.xml",
+            "acemasiran--sarki--aksak--dinle_sozum--iii_selim.xml",
+            "acemasiran--sarki--aksak--gordum_seni--irfan_dogrusoz.xml",
+            "acemasiran--sarki--aksak--acildi_nevbahar--sadullah_aga.xml",
+            "acemasiran--sarki--aksak--o_tebessum--ismail_baha_surelsan.xml",
+            "acemasiran--aranagme--aksak--1--.xml",
+            "acemasiran--sarki--aksak--dustum_bir--ali_riza_avni_tinaz.xml",
+            "acemasiran--sarki--aksak--lutfeyle_meded--dede_efendi.xml",
+            "acemasiran--sarki--aksak--oldu_gonul--dede_efendi.xml"
+        ],
+        "aksaksemai": [
+            "acemasiran--kupe--aksaksemai--bir--ahmet_avni_konuk.xml",
+            "acemasiran--sazsemaisi--aksaksemai----serafettin_seref_cakar.xml",
+            "acemasiran--sazsemaisi--aksaksemai----gazi_giray_han.xml",
+            "acemasiran--sazsemaisi--aksaksemai----misirli_udi_ibrahim_efendi.xml"
+        ],
+        "curcuna": [
+            "acemasiran--sarki--curcuna--ates-i_askinla--emin_ongan.xml",
+            "acemasiran--aranagme--curcuna--1--.xml",
+            "acemasiran--sarki--curcuna--neden_kalbim--nasibin_mehmet_yuru.xml"
+        ]
+    }
+}
